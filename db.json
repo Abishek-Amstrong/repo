@@ -1,0 +1,7 @@
+{
+  "profiles":[
+    {"id":1,"name": "Senthil", "age":21},
+    {"id":2,"name": "Mithilesh", "age":41},
+    {"id":3,"name": "Abishek", "age":31}
+  ]
+}
